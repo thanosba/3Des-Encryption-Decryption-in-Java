@@ -11,10 +11,9 @@ import java.util.Base64.Encoder;
 
 /**
  * 
- * @author shivshankar pal
  * 
- *         this code is working properly. doing proper encription and decription
-           note:- it will work only with jdk8
+ * 
+ *         working only with jdk8
 
  * 
 

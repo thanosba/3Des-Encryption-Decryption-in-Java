@@ -1,4 +1,4 @@
 # 3Des-Encryption-Decryption-in-Java
 
 
-3Des-Encryption-Decryption-in-Java
+Triple Des-Encryption-Decryption-in-Java

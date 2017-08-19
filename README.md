@@ -1,2 +1,4 @@
 # 3Des-Encryption-Decryption-in-Java
-The Data Encryption Standard (DES, /ˌdiːˌiːˈɛs/ or /ˈdɛz/) is a symmetric-key algorithm for the encryption of electronic data. Although now considered insecure, it was highly influential in the advancement of modern cryptography.  Developed in the early 1970s at IBM and based on an earlier design by Horst Feistel, the algorithm was submitted to the National Bureau of Standards (NBS) following the agency's invitation to propose a candidate for the protection of sensitive, unclassified electronic government data. In 1976, after consultation with the National Security Agency (NSA), the NBS eventually selected a slightly modified version (strengthened against differential cryptanalysis, but weakened against brute force attacks), which was published as an official Federal Information Processing Standard (FIPS) for the United States in 1977.
+
+
+3Des-Encryption-Decryption-in-Java
